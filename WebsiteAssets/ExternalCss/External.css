@@ -1,0 +1,31 @@
+﻿a {
+    cursor: pointer;
+}
+
+.newsletter-popup .form-control {
+    border: 1px solid #222;
+    background: #fff;
+    /* border-right: none; */
+}
+
+.fontStyle {
+    font-size: 18px !important;
+}
+
+
+.radio {
+    position: relative;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.paymentFormData:hover {
+    color: green !important;
+}
+
+.paymentFormData2:hover {
+    color: #003087 !important;
+}
+
+
